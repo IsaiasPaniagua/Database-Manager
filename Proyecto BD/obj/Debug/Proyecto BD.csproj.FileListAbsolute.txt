@@ -1,0 +1,47 @@
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\bin\Debug\Proyecto BD.exe.config
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\bin\Debug\Proyecto BD.exe
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\bin\Debug\Proyecto BD.pdb
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.csprojAssemblyReference.cache
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\obj\Debug\Proyecto_BD.Form1.resources
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\obj\Debug\Proyecto_BD.Properties.Resources.resources
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.csproj.GenerateResource.cache
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.csproj.CoreCompileInputs.cache
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.exe
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.pdb
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\bin\Debug\GenericParsing.dll
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\bin\Debug\GenericParsing.xml
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.csproj.CopyComplete
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\bin\Debug\Proyecto BD.exe.config
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\bin\Debug\Proyecto BD.exe
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\bin\Debug\Proyecto BD.pdb
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\bin\Debug\GenericParsing.dll
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\bin\Debug\GenericParsing.xml
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.csproj.AssemblyReference.cache
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto_BD.Form1.resources
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto_BD.Properties.Resources.resources
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.csproj.GenerateResource.cache
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.csproj.CopyComplete
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.exe
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.pdb
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\bin\Debug\MetroFramework.Design.dll
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\bin\Debug\MetroFramework.dll
+C:\Users\Alan\Desktop\Proyecto BD\Proyecto BD\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\bin\Debug\MetroFramework.Design.dll
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\bin\Debug\MetroFramework.dll
+C:\Users\LATITUDE\Downloads\Proyecto BD\Proyecto BD\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\bin\Debug\Proyecto BD.exe.config
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\bin\Debug\Proyecto BD.exe
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\bin\Debug\Proyecto BD.pdb
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\bin\Debug\GenericParsing.dll
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\bin\Debug\MetroFramework.dll
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\bin\Debug\GenericParsing.xml
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.csprojAssemblyReference.cache
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto_BD.Form1.resources
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto_BD.Properties.Resources.resources
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.csproj.GenerateResource.cache
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.csproj.CoreCompileInputs.cache
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.csproj.CopyComplete
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.exe
+C:\Users\LATITUDE\Desktop\Proyecto BD\Proyecto BD\obj\Debug\Proyecto BD.pdb
